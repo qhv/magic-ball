@@ -40,4 +40,3 @@ puts
 sleep 1.3
 
 puts answers.sample
-
